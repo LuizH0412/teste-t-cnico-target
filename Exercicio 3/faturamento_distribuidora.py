@@ -2,7 +2,7 @@ import json
 
 # Função que carrega os dados do arquivo JSON e retorna eles para a variável
 def carregar_dados():
-    with open('./faturamento.json', 'r') as arquivo:
+    with open('./Exercicio 3/faturamento.json', 'r') as arquivo:
         return json.load(arquivo)
     
 # Função que calcula o faturamento da distribuidora seguindo os critérios estabelecidos
