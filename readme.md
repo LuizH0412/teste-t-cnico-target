@@ -9,6 +9,7 @@ O desafio inclui:
 1. **Cálculo de Percentual de Representação**: Determinar a porcentagem que cada estado contribui para o faturamento total.
 2. **Sequência de Fibonacci**: Verificar se um determinado valor faz parte da sequência de Fibonacci.
 3. **Faturamento Mensal**: Identificar o menor e o maior valor de faturamento e conta o número de dias com faturamento acima da média mensal.
+4. **Reversão de String**: Reverte qualquer string informada pelo usuário.
 
 ## Clonando o Repositório
 
