@@ -1,3 +1,4 @@
+# Função que recebe um número que o usuário enviou e calcula se aquele número faz parte da sequência de fibonacci
 def fibonacci(num):
     a, b = 0, 1
     encontrou = False
