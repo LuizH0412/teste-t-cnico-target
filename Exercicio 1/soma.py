@@ -1,8 +1,8 @@
 k = 0
-i = 13
+INDICE = 13
 soma = 0
 
-while k < i:
+while k < INDICE:
     k += 1
     soma += k
 
